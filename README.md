@@ -7,4 +7,4 @@ This is a task list I need to complete in order to under and use LLM.
 - [x] Created Kaggle account
 - [ ] Lesson 1: Getting Started  
 
-## [Hugging Co](https://huggingface.co/learn/llm-course/chapter1/1)
+# [Hugging Co](https://huggingface.co/learn/llm-course/chapter1/1)
